@@ -1,0 +1,11 @@
+C:\Users\RICARDO\source\repos\Provincias_Deber\bin\Debug\Provincias_Deber.exe.config
+C:\Users\RICARDO\source\repos\Provincias_Deber\bin\Debug\Provincias_Deber.exe
+C:\Users\RICARDO\source\repos\Provincias_Deber\bin\Debug\Provincias_Deber.pdb
+C:\Users\RICARDO\source\repos\Provincias_Deber\bin\Debug\Provincias_Deber.xml
+C:\Users\RICARDO\source\repos\Provincias_Deber\obj\Debug\Provincias_Deber.vbprojAssemblyReference.cache
+C:\Users\RICARDO\source\repos\Provincias_Deber\obj\Debug\Provincias_Deber.Form1.resources
+C:\Users\RICARDO\source\repos\Provincias_Deber\obj\Debug\Provincias_Deber.Resources.resources
+C:\Users\RICARDO\source\repos\Provincias_Deber\obj\Debug\Provincias_Deber.vbproj.GenerateResource.cache
+C:\Users\RICARDO\source\repos\Provincias_Deber\obj\Debug\Provincias_Deber.exe
+C:\Users\RICARDO\source\repos\Provincias_Deber\obj\Debug\Provincias_Deber.xml
+C:\Users\RICARDO\source\repos\Provincias_Deber\obj\Debug\Provincias_Deber.pdb
